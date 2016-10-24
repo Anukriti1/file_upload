@@ -1,0 +1,23 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-formidable": "^1.0.0",
+    "file-system": "^2.2.1",
+    "mongoose": "^4.6.3",
+    "multer": "^1.2.0",
+    "path": "^0.12.7",
+    "pdf2img": "^0.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
